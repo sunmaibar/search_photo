@@ -78,6 +78,7 @@ function App() {
           <button type='submit' className='submit-btn' onClick={handleSubmit}>
             <FaSearch />
           </button>
+          {/* kk */}
         </form>
       </section>
       <section className='photos'>
